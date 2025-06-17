@@ -1,5 +1,8 @@
 # End-Use Energy Consumption Dashboard
 
+
+![Pic](Pic.png)
+
 ## About the Dashboard
 
 I developed this dashboard as a personal learning tool to better understand end-use energy consumption patterns and to compare energy use across different countries.
