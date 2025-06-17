@@ -1,7 +1,7 @@
 # End-Use Energy Consumption Dashboard
 
 
-![Pic](Pic.png)
+![screenshot](screenshot.png)
 
 ## About the Dashboard
 
